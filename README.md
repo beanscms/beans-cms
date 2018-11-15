@@ -3,7 +3,7 @@ CMS with pure javascript.
 
 # Todo List
 
-[ ] koa backend
+- [ ] koa backend
 
 [ ] vue or react?
 
