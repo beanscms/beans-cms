@@ -1,0 +1,8 @@
+{
+  "name": "beans-cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:beanscms/beans-cms.git",
+  "author": "xiaofuyesnew <xiaofuyesnew@qq.com>",
+  "license": "MIT"
+}
